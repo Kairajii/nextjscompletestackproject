@@ -1,0 +1,21 @@
+.container {
+    height: 50px;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 2px solid rgb(52, 47, 47);
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.social{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.icon{
+    opacity: 0.6;
+    cursor: pointer;
+}
